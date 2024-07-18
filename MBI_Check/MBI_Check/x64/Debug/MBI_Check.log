@@ -1,0 +1,3 @@
+﻿  Hello.cpp
+C:\Warehouse\Kotlin\Android_Kotlin_Course\Android-Kotlin-Course\MBI_Check\MBI_Check\Hello.cpp(44,17): warning C4305: '=': truncation from 'double' to 'float'
+  MBI_Check.vcxproj -> C:\Warehouse\Kotlin\Android_Kotlin_Course\Android-Kotlin-Course\MBI_Check\x64\Debug\MBI_Check.exe
