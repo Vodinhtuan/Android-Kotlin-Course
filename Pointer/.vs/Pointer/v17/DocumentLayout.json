@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Warehouse\\Kotlin\\Android_Kotlin_Course\\Android-Kotlin-Course\\Pointer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03F3D0B8-8431-42D2-AA46-97DF99ACCEAC}|Pointer\\Pointer.vcxproj|C:\\Warehouse\\Kotlin\\Android_Kotlin_Course\\Android-Kotlin-Course\\Pointer\\Pointer\\Pointer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03F3D0B8-8431-42D2-AA46-97DF99ACCEAC}|Pointer\\Pointer.vcxproj|solutionrelative:Pointer\\Pointer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pointer.cpp",
+              "DocumentMoniker": "C:\\Warehouse\\Kotlin\\Android_Kotlin_Course\\Android-Kotlin-Course\\Pointer\\Pointer\\Pointer.cpp",
+              "RelativeDocumentMoniker": "Pointer\\Pointer.cpp",
+              "ToolTip": "C:\\Warehouse\\Kotlin\\Android_Kotlin_Course\\Android-Kotlin-Course\\Pointer\\Pointer\\Pointer.cpp",
+              "RelativeToolTip": "Pointer\\Pointer.cpp",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-18T14:56:49.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
